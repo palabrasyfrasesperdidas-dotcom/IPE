@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "bloque": "Salud y Condiciones de Trabajo",
+    "tipo": "Definición",
+    "pregunta": "Según la Organización Mundial de la Salud (OMS), ¿cómo se define el concepto integral de salud?",
+    "opciones": [
+      "La ausencia exclusiva de enfermedades físicas y lesiones visibles.",
+      "Un estado de completo bienestar físico, mental y social, y no solamente la ausencia de afecciones o enfermedades.",
+      "La capacidad del trabajador para resistir la fatiga durante la jornada laboral."
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "id": 2,
+    "bloque": "Riesgos y Daños Profesionales",
+    "tipo": "Ejemplo práctico",
+    "pregunta": "En una residencia de mayores, un suelo mojado y sin señalizar tras la limpieza es:",
+    "opciones": [
+      "Un daño profesional consumado.",
+      "Un factor de riesgo de tipo físico o mecánico (condición insegura).",
+      "Una medida de protección colectiva."
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "id": 3,
+    "bloque": "Tipos de Factores de Riesgo",
+    "tipo": "Ejemplo práctico",
+    "pregunta": "El contagio por un pinchazo accidental con una aguja al cuidar a un residente con hepatitis es un factor de riesgo de tipo:",
+    "opciones": [
+      "Biológico",
+      "Químico",
+      "Psicosocial"
+    ],
+    "respuesta_correcta": 0
+  },
+  {
+    "id": 4,
+    "bloque": "Accidente vs Enfermedad",
+    "tipo": "Definición",
+    "pregunta": "¿Cuál es la principal diferencia jurídica entre un accidente de trabajo y una enfermedad profesional?",
+    "opciones": [
+      "El accidente se produce de forma súbita e imprevista en el trabajo, mientras que la enfermedad se contrae de forma paulatina por la exposición continuada a agentes del sector.",
+      "La enfermedad profesional solo ocurre fuera del horario laboral.",
+      "El accidente de trabajo no genera baja médica y la enfermedad sí."
+    ],
+    "respuesta_correcta": 0
+  },
+  {
+    "id": 5,
+    "bloque": "Consecuencias de los Daños",
+    "tipo": "Ejemplo práctico",
+    "pregunta": "Cuando una cuidadora sufre una incapacidad permanente por lumbalgia crónica, la pérdida de ingresos económicos en el hogar representa una consecuencia para:",
+    "opciones": [
+      "La empresa exclusivamente",
+      "La familia y la propia víctima",
+      "La Seguridad Social sin afectar al entorno familiar"
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "id": 6,
+    "bloque": "Disciplinas Preventivas",
+    "tipo": "Ejemplo práctico",
+    "pregunta": "Si un técnico evalúa la carga física, las posturas forzadas y el diseño ergonómico de las grúas de movilización de pacientes, ¿qué disciplina preventiva está actuando?",
+    "opciones": [
+      "Higiene Industrial",
+      "Ergonomía y Psicosociología Aplicada",
+      "Medicina del Trabajo"
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "id": 7,
+    "bloque": "Señalización y Entorno Físico",
+    "tipo": "Definición",
+    "pregunta": "En los espacios de trabajo, una señal de seguridad con forma redonda, pictograma negro sobre fondo blanco con bordes y banda rojos, indica:",
+    "opciones": [
+      "Una señal de prohibición",
+      "Una obligación de uso de EPI",
+      "Una situación de emergencia"
+    ],
+    "respuesta_correcta": 0
+  },
+  {
+    "id": 8,
+    "bloque": "Factores Ambientales",
+    "tipo": "Ejemplo práctico",
+    "pregunta": "Trabajar en una residencia geriátrica con una iluminación deficiente en los pasillos que dificulta la visión de los escalones es un factor de riesgo:",
+    "opciones": [
+      "Psicosocial",
+      "Ambiental físico (luminosidad inadecuada)",
+      "Biológico"
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "id": 9,
+    "bloque": "Ejecución de la Tarea y Cargas",
+    "tipo": "Ejemplo práctico",
+    "pregunta": "Al realizar la movilización manual de un residente encamado sin la ayuda técnica adecuada ni doblar las rodillas, se incrementa drásticamente el riesgo de:",
+    "opciones": [
+      "Trastornos músculo-esqueléticos (sobresfuerzos)",
+      "Intoxicación por agentes químicos",
+      "Contagio por agentes biológicos respiratorios"
+    ],
+    "respuesta_correcta": 0
+  },
+  {
+    "id": 10,
+    "bloque": "Factores Psicosociales",
+    "tipo": "Ejemplo práctico",
+    "pregunta": "La sobrecarga emocional, el turno nocturno rotativo y la presión asistencial continuada en la atención a personas dependientes generan principalmente riesgos de tipo:",
+    "opciones": [
+      "Mecánico",
+      "Psicosocial",
+      "Físico puro"
+    ],
+    "respuesta_correcta": 1
+  }
+]
