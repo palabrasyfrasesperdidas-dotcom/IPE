@@ -15,11 +15,11 @@
     "bloque": "Riesgos y Daños Profesionales",
     "pregunta": "En una residencia de mayores, un suelo mojado y sin señalizar tras la limpieza es:",
     "opciones": [
+      "Una medida de protección colectiva.",
       "Un daño profesional consumado.",
-      "Un factor de riesgo de tipo físico o mecánico (condición insegura).",
-      "Una medida de protección colectiva."
+      "Un factor de riesgo de tipo físico o mecánico (condición insegura)."
     ],
-    "respuesta_correcta": 1
+    "respuesta_correcta": 2
   },
   {
     "id": 3,
@@ -37,22 +37,22 @@
     "bloque": "Accidente vs Enfermedad",
     "pregunta": "¿Cuál es la principal diferencia jurídica entre un accidente de trabajo y una enfermedad profesional?",
     "opciones": [
-      "El accidente se produce de forma súbita e imprevista en el trabajo, mientras que la enfermedad se contrae de forma paulatina por la exposición continuada a agentes del sector.",
       "La enfermedad profesional solo ocurre fuera del horario laboral.",
+      "El accidente se produce de forma súbita e imprevista en el trabajo, mientras que la enfermedad se contrae de forma paulatina por la exposición continuada a agentes del sector.",
       "El accidente de trabajo no genera baja médica y la enfermedad sí."
     ],
-    "respuesta_correcta": 0
+    "respuesta_correcta": 1
   },
   {
     "id": 5,
     "bloque": "Consecuencias de los Daños",
     "pregunta": "Cuando una cuidadora sufre una incapacidad permanente por lumbalgia crónica, la pérdida de ingresos económicos en el hogar representa una consecuencia para:",
     "opciones": [
-      "La empresa exclusivamente",
       "La familia y la propia víctima",
+      "La empresa exclusivamente",
       "La Seguridad Social sin afectar al entorno familiar"
     ],
-    "respuesta_correcta": 1
+    "respuesta_correcta": 0
   },
   {
     "id": 6,
@@ -60,10 +60,10 @@
     "pregunta": "Si un técnico evalúa la carga física, las posturas forzadas y el diseño ergonómico de las grúas de movilización de pacientes, ¿qué disciplina preventiva está actuando?",
     "opciones": [
       "Higiene Industrial",
-      "Ergonomía y Psicosociología Aplicada",
-      "Medicina del Trabajo"
+      "Medicina del Trabajo",
+      "Ergonomía y Psicosociología Aplicada"
     ],
-    "respuesta_correcta": 1
+    "respuesta_correcta": 2
   },
   {
     "id": 7,
@@ -81,22 +81,22 @@
     "bloque": "Factores Ambientales",
     "pregunta": "Trabajar en una residencia geriátrica con una iluminación deficiente en los pasillos que dificulta la visión de los escalones es un factor de riesgo:",
     "opciones": [
-      "Psicosocial",
       "Ambiental físico (luminosidad inadecuada)",
+      "Psicosocial",
       "Biológico"
     ],
-    "respuesta_correcta": 1
+    "respuesta_correcta": 0
   },
   {
     "id": 9,
     "bloque": "Ejecución de la Tarea y Cargas",
     "pregunta": "Al realizar la movilización manual de un residente encamado sin la ayuda técnica adecuada ni doblar las rodillas, se incrementa drásticamente el riesgo de:",
     "opciones": [
-      "Trastornos músculo-esqueléticos (sobresfuerzos)",
       "Intoxicación por agentes químicos",
+      "Trastornos músculo-esqueléticos (sobresfuerzos)",
       "Contagio por agentes biológicos respiratorios"
     ],
-    "respuesta_correcta": 0
+    "respuesta_correcta": 1
   },
   {
     "id": 10,
@@ -104,21 +104,21 @@
     "pregunta": "La sobrecarga emocional, el turno nocturno rotativo y la presión asistencial continuada en la atención a personas dependientes generan principalmente riesgos de tipo:",
     "opciones": [
       "Mecánico",
-      "Psicosocial",
-      "Físico puro"
+      "Físico puro",
+      "Psicosocial"
     ],
-    "respuesta_correcta": 1
+    "respuesta_correcta": 2
   },
   {
     "id": 11,
     "bloque": "Concepto de Salud Laboral",
     "pregunta": "¿Qué persigue fundamentalmente la Ley de Prevención de Riesgos Laborales (LPRL)?",
     "opciones": [
-      "Promover la seguridad y la salud de los trabajadores mediante la aplicación de medidas y el desarrollo de las actividades necesarias.",
       "Reducir las indemnizaciones que pagan las mutuas de accidentes.",
+      "Promover la seguridad y la salud de los trabajadores mediante la aplicación de medidas y el desarrollo de las actividades necesarias.",
       "Sancionar exclusivamente a los empleados que no usen el uniforme."
     ],
-    "respuesta_correcta": 0
+    "respuesta_correcta": 1
   },
   {
     "id": 12,
@@ -126,65 +126,65 @@
     "pregunta": "Dentro del entorno físico de trabajo, la presencia de ruido ambiental excesivo continuado se engloba dentro de los factores:",
     "opciones": [
       "Psicosociales",
-      "Físicos ambientales",
-      "De seguridad mecánica"
+      "De seguridad mecánica",
+      "Físicos ambientales"
     ],
-    "respuesta_correcta": 1
+    "respuesta_correcta": 2
   },
   {
     "id": 13,
     "bloque": "Riesgos Laborales",
     "pregunta": "¿Cómo se define el concepto de 'peligro' en el ámbito laboral?",
     "opciones": [
-      "La probabilidad real de sufrir un daño durante la jornada.",
       "Una fuente, situación o acto con potencial de causar daño en términos de lesiones o enfermedades.",
+      "La probabilidad real de sufrir un daño durante la jornada.",
       "El parte médico emitido tras una baja."
     ],
-    "respuesta_correcta": 1
+    "respuesta_correcta": 0
   },
   {
     "id": 14,
     "bloque": "Riesgos Laborales",
     "pregunta": "Si un trabajador sufre un corte con un bisturí desechable mal depositado, el bisturí actúa como:",
     "opciones": [
-      "Agente material del accidente",
       "Medida de protección colectiva",
+      "Agente material del accidente",
       "Factor psicosocial de organización"
     ],
-    "respuesta_correcta": 0
+    "respuesta_correcta": 1
   },
   {
     "id": 15,
     "bloque": "Tipos de Factores de Riesgo",
     "pregunta": "El uso de productos desinfectantes concentrados con amoníaco sin ventilación adecuada genera un riesgo de tipo:",
     "opciones": [
-      "Químico",
       "Físico",
+      "Químico",
       "Biológico"
     ],
-    "respuesta_correcta": 0
+    "respuesta_correcta": 1
   },
   {
     "id": 16,
     "bloque": "Tipos de Factores de Riesgo",
     "pregunta": "Las vibraciones transmitidas al cuerpo entero por la conducción prolongada de furgonetas de transporte sanitario son un factor de riesgo:",
     "opciones": [
-      "Físico",
       "Químico",
-      "Psicosocial"
+      "Psicosocial",
+      "Físico"
     ],
-    "respuesta_correcta": 0
+    "respuesta_correcta": 2
   },
   {
     "id": 17,
     "bloque": "Daños Profesionales",
     "pregunta": "Un infarto de miocardio sufrido en el lugar y durante el tiempo de trabajo tiene la consideración legal de:",
     "opciones": [
-      "Enfermedad común exclusivamente",
       "Accidente de trabajo (presunción legal en acto de trabajo)",
+      "Enfermedad común exclusivamente",
       "Enfermedad profesional catalogada"
     ],
-    "respuesta_correcta": 1
+    "respuesta_correcta": 0
   },
   {
     "id": 18,
@@ -192,21 +192,21 @@
     "pregunta": "En España, las enfermedades profesionales se encuentran oficialmente recogidas y tipificadas en:",
     "opciones": [
       "El Estatuto de los Trabajadores",
-      "El Cuadro de Enfermedades Profesionales en el Sistema de la Seguridad Social (Real Decreto)",
-      "El convenio colectivo de cada empresa"
+      "El convenio colectivo de cada empresa",
+      "El Cuadro de Enfermedades Profesionales en el Sistema de la Seguridad Social (Real Decreto)"
     ],
-    "respuesta_correcta": 1
+    "respuesta_correcta": 2
   },
   {
     "id": 19,
     "bloque": "Consecuencias de los Daños",
     "pregunta": "Para la empresa, un accidente laboral grave de un empleado supone costes como:",
     "opciones": [
-      "Pérdida de productividad, costes de sustitución y posibles recargos de prestaciones.",
       "Únicamente el pago de la baja por parte del empresario durante el primer día.",
+      "Pérdida de productividad, costes de sustitución y posibles recargos de prestaciones.",
       "Beneficios fiscales por incentivos de seguridad."
     ],
-    "respuesta_correcta": 0
+    "respuesta_correcta": 1
   },
   {
     "id": 20,
@@ -214,54 +214,54 @@
     "pregunta": "El principio general de la acción preventiva que obliga a evitar los riesgos en su origen se denomina:",
     "opciones": [
       "Principio de evitación y control primario",
-      "Principio de evaluar los riesgos que no se puedan evitar",
-      "Principio de sustitución de lo peligroso por lo que entrañe poco o ningún peligro"
+      "Principio de sustitución de lo peligroso por lo que entrañe poco o ningún peligro",
+      "Principio de evaluar los riesgos que no se puedan evitar"
     ],
-    "respuesta_correcta": 2
+    "respuesta_correcta": 1
   },
   {
     "id": 21,
     "bloque": "Medidas de Protección",
     "pregunta": "Una barandilla de seguridad instalada en una escalera para evitar caídas de altura es un ejemplo claro de:",
     "opciones": [
-      "Equipo de Protección Individual (EPI)",
       "Medida de protección colectiva",
+      "Equipo de Protección Individual (EPI)",
       "Disciplina de medicina del trabajo"
     ],
-    "respuesta_correcta": 1
+    "respuesta_correcta": 0
   },
   {
     "id": 22,
     "bloque": "Medidas de Protección",
     "pregunta": "¿Cuál de los siguientes elementos se considera un Equipo de Protección Individual (EPI)?",
     "opciones": [
-      "Una mascarilla FFP2 utilizada en aislamiento respiratorio",
       "Un sistema de extracción localizada de aire",
+      "Una mascarilla FFP2 utilizada en aislamiento respiratorio",
       "Un extintor de polvo seco"
     ],
-    "respuesta_correcta": 0
+    "respuesta_correcta": 1
   },
   {
     "id": 23,
     "bloque": "Disciplinas Preventivas",
     "pregunta": "¿Qué disciplina preventiva se ocupa de estudiar los contaminantes químicos y biológicos en el ambiente de trabajo?",
     "opciones": [
-      "Seguridad en el Trabajo",
       "Higiene Industrial",
+      "Seguridad en el Trabajo",
       "Ergonomía"
     ],
-    "respuesta_correcta": 1
+    "respuesta_correcta": 0
   },
   {
     "id": 24,
     "bloque": "Disciplinas Preventivas",
-    "pregunta": "Si un trabajador padece mobbing (acoso laboral) o bournout (quemado por el trabajo), la disciplina que aborda estos factores es:",
+    "pregunta": "Si un trabajador padece mobbing (acoso laboral) o burnout (quemado por el trabajo), la disciplina que aborda estos factores es:",
     "opciones": [
-      "Ergonomía y Psicosociología Aplicada",
       "Higiene de campo",
-      "Seguridad industrial"
+      "Seguridad industrial",
+      "Ergonomía y Psicosociología Aplicada"
     ],
-    "respuesta_correcta": 0
+    "respuesta_correcta": 2
   },
   {
     "id": 25,
@@ -277,11 +277,11 @@
   {
     "id": 26,
     "bloque": "Riesgo de Incendio",
-    "pregunta": "Para apagar un fuego originado en un cuadro eléctrico bajo tensión, el agente extintor más adecuado es:",
+    "pregunta": "En un conato de incendio por equipos eléctricos bajo tensión, el agente extintor adecuado es:",
     "opciones": [
       "Agua a chorro directo",
-      "Dióxido de carbono (CO2) o polvo seco extintor",
-      "Manta ignífuga de algodón húmedo"
+      "Dióxido de carbono (CO2) o polvo seco",
+      "Manta de algodón empapada en agua"
     ],
     "respuesta_correcta": 1
   },
@@ -290,11 +290,11 @@
     "bloque": "Factores Ambientales",
     "pregunta": "En una oficina o centro de trabajo interior, la temperatura recomendada en épocas de invierno según el RITE debe oscilar entre:",
     "opciones": [
-      "14ºC y 16ºC",
       "17ºC y 21ºC",
+      "14ºC y 16ºC",
       "25ºC y 28ºC"
     ],
-    "respuesta_correcta": 1
+    "respuesta_correcta": 0
   },
   {
     "id": 28,
@@ -302,98 +302,98 @@
     "pregunta": "Los agentes biológicos se clasifican legalmente en cuatro grupos en función de:",
     "opciones": [
       "Su coste económico en el mercado farmacéutico.",
-      "Su capacidad infecciosa, el riesgo de propagación y la existencia de tratamiento eficaz.",
-      "El tamaño microscópico de su estructura celular."
+      "El tamaño microscópico de su estructura celular.",
+      "Su capacidad infecciosa, el riesgo de propagación y la existencia de tratamiento eficaz."
     ],
-    "respuesta_correcta": 1
+    "respuesta_correcta": 2
   },
   {
     "id": 29,
     "bloque": "Agentes Químicos",
     "pregunta": "Los pictogramas de advertencia de peligro químico actuales tienen forma de:",
     "opciones": [
-      "Rombo con borde rojo y fondo blanco",
       "Círculo azul con cerco blanco",
+      "Rombo con borde rojo y fondo blanco",
       "Triángulo amarillo con franja negra"
     ],
-    "respuesta_correcta": 0
+    "respuesta_correcta": 1
   },
   {
     "id": 30,
     "bloque": "Manipulación de Cargas",
     "pregunta": "Según la normativa de manipulación manual de cargas, con carácter general se recomienda no superar el peso de manipulación manual frecuente de:",
     "opciones": [
-      "10 kg para población general (con condiciones óptimas)",
       "25 kg (o 15 kg en grupos protegidos como mujeres embarazadas o jóvenes)",
+      "10 kg para población general (con condiciones óptimas)",
       "50 kg para cualquier trabajador sin restricciones"
     ],
-    "respuesta_correcta": 1
+    "respuesta_correcta": 0
   },
   {
     "id": 31,
     "bloque": "Salud y Condiciones",
     "pregunta": "¿Qué aspecto abarca la dimensión 'mental' de la salud según la OMS?",
     "opciones": [
-      "La ausencia absoluta de pensamiento crítico.",
       "El equilibrio emocional, la capacidad de gestionar el estrés y el bienestar psicológico.",
+      "La ausencia absoluta de pensamiento crítico.",
       "El cociente intelectual elevado."
     ],
-    "respuesta_correcta": 1
+    "respuesta_correcta": 0
   },
   {
     "id": 32,
     "bloque": "Condiciones de Trabajo",
     "pregunta": "La organización del tiempo de trabajo (turnos rotativos, nocturnidad, exceso de horas extraordinarias) influye directamente en:",
     "opciones": [
-      "La aparición de fatiga física y mental y alteraciones del sueño.",
+      "La disminución automática de los salarios.",
       "Únicamente en la productividad contable de la empresa.",
-      "La disminución automática de los salarios."
+      "La aparición de fatiga física y mental y alteraciones del sueño."
     ],
-    "respuesta_correcta": 0
+    "respuesta_correcta": 2
   },
   {
     "id": 33,
     "bloque": "Riesgos Laborales",
     "pregunta": "Un cable eléctrico pelado que cuelga en una zona de paso constituye:",
     "opciones": [
-      "Un factor de riesgo eléctrico y de seguridad.",
       "Una medida de confort térmico.",
-      "Un riesgo puramente psicosocial."
+      "Un riesgo puramente psicosocial.",
+      "Un factor de riesgo eléctrico y de seguridad."
     ],
-    "respuesta_correcta": 0
+    "respuesta_correcta": 2
   },
   {
     "id": 34,
     "bloque": "Riesgos Laborales",
     "pregunta": "En la evaluación de riesgos de un puesto de trabajo, el concepto 'probabilidad' se refiere a:",
     "opciones": [
-      "La severidad de las lesiones si estas llegan a producirse.",
       "La posibilidad de que el factor de riesgo se materialice en un daño.",
+      "La severidad de las lesiones si estas llegan a producirse.",
       "El número de trabajadores expuestos al día."
     ],
-    "respuesta_correcta": 1
+    "respuesta_correcta": 0
   },
   {
     "id": 35,
     "bloque": "Tipos de Factores de Riesgo",
     "pregunta": "Las posturas forzadas mantenidas durante el aseo de personas dependientes se catalogan como riesgos asociados a:",
     "opciones": [
-      "La ejecución de la tarea (ergonómicos)",
       "Agentes químicos volátiles",
+      "La ejecución de la tarea (ergonómicos)",
       "El entorno físico exterior"
     ],
-    "respuesta_correcta": 0
+    "respuesta_correcta": 1
   },
   {
     "id": 36,
     "bloque": "Tipos de Factores de Riesgo",
     "pregunta": "La exposición a radiaciones ionizantes (rayos X en hospitales) forma parte de los factores de riesgo:",
     "opciones": [
-      "Físicos",
       "Biológicos",
-      "Psicosociales"
+      "Psicosociales",
+      "Físicos"
     ],
-    "respuesta_correcta": 0
+    "respuesta_correcta": 2
   },
   {
     "id": 37,
@@ -411,22 +411,22 @@
     "bloque": "Enfermedades Profesionales",
     "pregunta": "Para que una dolencia sea reconocida oficialmente como enfermedad profesional en España, debe estar causada por:",
     "opciones": [
-      "Cualquier actividad de la vida cotidiana.",
       "Los elementos o sustancias y en las actividades que se especifican en el cuadro oficial de enfermedades profesionales.",
+      "Cualquier actividad de la vida cotidiana.",
       "El estrés general de la vida moderna."
     ],
-    "respuesta_correcta": 1
+    "respuesta_correcta": 0
   },
   {
     "id": 39,
     "bloque": "Consecuencias de los Daños",
     "pregunta": "¿Qué impacto económico directo tiene un accidente laboral grave sobre la sociedad en su conjunto?",
     "opciones": [
-      "Costes sanitarios de asistencia, prestaciones por incapacidad y pérdida de capital humano activo.",
       "Ninguno, ya que los seguros privados cubren el 100% de los gastos sociales.",
-      "Únicamente el incremento de los impuestos municipales."
+      "Únicamente el incremento de los impuestos municipales.",
+      "Costes sanitarios de asistencia, prestaciones por incapacidad y pérdida de capital humano activo."
     ],
-    "respuesta_correcta": 0
+    "respuesta_correcta": 2
   },
   {
     "id": 40,
@@ -444,11 +444,11 @@
     "bloque": "Medidas de Protección",
     "pregunta": "Ante un riesgo laboral, ¿qué tipo de medida debe priorizarse siempre según la Ley de Prevención de Riesgos Laborales?",
     "opciones": [
-      "Medidas de protección individual (EPIs)",
       "Medidas de protección colectiva y prevención en origen",
+      "Medidas de protección individual (EPIs)",
       "Indemnizaciones económicas compensatorias"
     ],
-    "respuesta_correcta": 1
+    "respuesta_correcta": 0
   },
   {
     "id": 42,
@@ -456,43 +456,43 @@
     "pregunta": "¿Quién debe asumir el coste económico de la adquisición y reposición de los EPIs necesarios para los trabajadores?",
     "opciones": [
       "El trabajador obligatoriamente de su sueldo",
-      "El empresario en su integridad",
-      "Los servicios públicos de salud de la comunidad autónoma"
+      "Los servicios públicos de salud de la comunidad autónoma",
+      "El empresario en su integridad"
     ],
-    "respuesta_correcta": 1
+    "respuesta_correcta": 2
   },
   {
     "id": 43,
     "bloque": "Disciplinas Preventivas",
     "pregunta": "La disciplina preventiva que investiga las causas de los accidentes ya ocurridos para proponer medidas correctoras es:",
     "opciones": [
-      "Seguridad en el Trabajo",
       "Higiene Industrial",
+      "Seguridad en el Trabajo",
       "Psicosociología"
     ],
-    "respuesta_correcta": 0
+    "respuesta_correcta": 1
   },
   {
     "id": 44,
     "bloque": "Disciplinas Preventivas",
     "pregunta": "El análisis de la fatiga mental, la monotonía en el puesto y la carga de trabajo psicológica corresponde a la disciplina de:",
     "opciones": [
-      "Ergonomía y Psicosociología Aplicada",
       "Seguridad en máquinas",
+      "Ergonomía y Psicosociología Aplicada",
       "Medicina biológica"
     ],
-    "respuesta_correcta": 0
+    "respuesta_correcta": 1
   },
   {
     "id": 45,
     "bloque": "Señalización",
     "pregunta": "Una señal de advertencia que indica 'Riesgo eléctrico' tiene forma triangular con fondo amarillo y el pictograma en color:",
     "opciones": [
-      "Negro",
       "Rojo brillante",
-      "Verde esmeralda"
+      "Verde esmeralda",
+      "Negro"
     ],
-    "respuesta_correcta": 0
+    "respuesta_correcta": 2
   },
   {
     "id": 46,
@@ -521,11 +521,11 @@
     "bloque": "Agentes Biológicos",
     "pregunta": "La vía principal de entrada de los agentes biológicos en el organismo del personal sanitario o sociosanitario suele ser:",
     "opciones": [
-      "La vía parenteral (pinchazos o cortes) y la vía respiratoria o mucosa",
       "La absorción exclusiva a través de las uñas",
-      "La ingestión voluntaria de alimentos"
+      "La ingestión voluntaria de alimentos",
+      "La vía parenteral (pinchazos o cortes) y la vía respiratoria o mucosa"
     ],
-    "respuesta_correcta": 0
+    "respuesta_correcta": 2
   },
   {
     "id": 49,
@@ -544,10 +544,10 @@
     "pregunta": "Al levantar una caja o persona con ayuda técnica, ¿cuál es la regla de oro ergonómica para la columna vertebral?",
     "opciones": [
       "Mantener la carga alejada del cuerpo para hacer más fuerza",
-      "Mantener la carga pegada al cuerpo, doblar las rodillas y no girar el tronco al levantar",
-      "Doblar la cintura formando un ángulo de 90 grados"
+      "Doblar la cintura formando un ángulo de 90 grados",
+      "Mantener la carga pegada al cuerpo, doblar las rodillas y no girar el tronco al levantar"
     ],
-    "respuesta_correcta": 1
+    "respuesta_correcta": 2
   },
   {
     "id": 51,
@@ -555,10 +555,10 @@
     "pregunta": "¿Qué papel juega el bienestar social dentro de la definición de salud de la OMS?",
     "opciones": [
       "Es irrelevante frente al estado puramente orgánico.",
-      "Integra la capacidad de establecer relaciones interpersonales satisfactorias y adaptación al entorno comunitario.",
-      "Se refiere exclusivamente a los ingresos salariales anuales."
+      "Se refiere exclusivamente a los ingresos salariales anuales.",
+      "Integra la capacidad de establecer relaciones interpersonales satisfactorias y adaptación al entorno comunitario."
     ],
-    "respuesta_correcta": 1
+    "respuesta_correcta": 2
   },
   {
     "id": 52,
@@ -576,11 +576,11 @@
     "bloque": "Riesgos Laborales",
     "pregunta": "El hecho de que un trabajador sufra una caída a mismo nivel por tropiezo con una alfombra mal colocada es un ejemplo de:",
     "opciones": [
-      "Factor de riesgo derivado de las condiciones de seguridad (superficies de tránsito)",
       "Enfermedad profesional de origen metabólico",
+      "Factor de riesgo derivado de las condiciones de seguridad (superficies de tránsito)",
       "Riesgo biológico de nivel 3"
     ],
-    "respuesta_correcta": 0
+    "respuesta_correcta": 1
   },
   {
     "id": 54,
@@ -588,10 +588,10 @@
     "pregunta": "¿Qué significa que un riesgo se califique como 'tolerable' en una evaluación?",
     "opciones": [
       "Que no requiere ningún tipo de atención ni revisión futura.",
-      "Que se ha reducido a un nivel que la organización puede soportar respecto a sus obligaciones legales y política de seguridad.",
-      "Que el trabajador renuncia a sus derechos de indemnización."
+      "Que el trabajador renuncia a sus derechos de indemnización.",
+      "Que se ha reducido a un nivel que la organización puede soportar respecto a sus obligaciones legales y política de seguridad."
     ],
-    "respuesta_correcta": 1
+    "respuesta_correcta": 2
   },
   {
     "id": 55,
@@ -609,11 +609,11 @@
     "bloque": "Tipos de Factores de Riesgo",
     "pregunta": "La exposición a campos electromagnéticos elevados generados por ciertos equipos médicos se clasifica como factor de riesgo:",
     "opciones": [
-      "Físico",
       "Psicosocial",
-      "Mecánico"
+      "Mecánico",
+      "Físico"
     ],
-    "respuesta_correcta": 0
+    "respuesta_correcta": 2
   },
   {
     "id": 57,
@@ -632,10 +632,10 @@
     "pregunta": "En el sistema español de seguridad social, ¿qué grupo de enfermedades profesionales engloba aquellas causadas por agentes químicos?",
     "opciones": [
       "Grupo 1",
-      "Grupo 2 o superior según la clasificación oficial por familias de agentes",
-      "No existen grupos químicos"
+      "No existen grupos químicos",
+      "Grupo 2 o superior según la clasificación oficial por familias de agentes"
     ],
-    "respuesta_correcta": 1
+    "respuesta_correcta": 2
   },
   {
     "id": 59,
@@ -654,21 +654,21 @@
     "pregunta": "¿Qué obligación principal tiene el trabajador en materia de prevención según el artículo 29 de la LPRL?",
     "opciones": [
       "Diseñar el plan de seguridad de toda la compañía.",
-      "Velar por su propia seguridad y la de aquellas otras personas a las que pueda afectar su actividad profesional.",
-      "Contratar el seguro de responsabilidad civil de la empresa."
+      "Contratar el seguro de responsabilidad civil de la empresa.",
+      "Velar por su propia seguridad y la de aquellas otras personas a las que pueda afectar su actividad profesional."
     ],
-    "respuesta_correcta": 1
+    "respuesta_correcta": 2
   },
   {
     "id": 61,
     "bloque": "Medidas de Protección",
     "pregunta": "Las pantallas de protección facial contra salpicaduras de líquidos biológicos o químicos son un EPI diseñado para proteger principalmente:",
     "opciones": [
-      "La zona ocular y facial frente a proyecciones",
       "Los miembros inferiores",
+      "La zona ocular y facial frente a proyecciones",
       "El sistema auditivo"
     ],
-    "respuesta_correcta": 0
+    "respuesta_correcta": 1
   },
   {
     "id": 62,
@@ -686,66 +686,66 @@
     "bloque": "Disciplinas Preventivas",
     "pregunta": "La especialidad preventiva que se encarga de estudiar la interacción entre el trabajador, los equipos y el entorno material para adaptar el trabajo a la persona es:",
     "opciones": [
-      "La Ergonomía",
       "La Medicina Legal",
+      "La Ergonomía",
       "La Higiene analítica"
     ],
-    "respuesta_correcta": 0
+    "respuesta_correcta": 1
   },
   {
     "id": 64,
     "bloque": "Disciplinas Preventivas",
     "pregunta": "El control de las condiciones termohigrométricas, la ventilación y la iluminación en fábricas o talleres es competencia de:",
     "opciones": [
-      "Higiene Industrial",
       "Seguridad vial",
-      "Psicosociología laboral"
+      "Psicosociología laboral",
+      "Higiene Industrial"
     ],
-    "respuesta_correcta": 0
+    "respuesta_correcta": 2
   },
   {
     "id": 65,
     "bloque": "Señalización",
     "pregunta": "Una señal luminosa parpadeante de color rojo en un entorno industrial suele significar:",
     "opciones": [
-      "Una situación de peligro inminente o evacuación de emergencia",
       "Una pausa normal para el café",
+      "Una situación de peligro inminente o evacuación de emergencia",
       "El inicio rutinario de la jornada"
     ],
-    "respuesta_correcta": 0
+    "respuesta_correcta": 1
   },
   {
     "id": 66,
     "bloque": "Riesgo de Incendio",
     "pregunta": "¿Qué indica el método PASS en el manejo de un extintor portátil?",
     "opciones": [
-      "Pisar, Apagar, Salir, Socorrer",
       "Pull (tirar del pasador), Aim (apuntar a la base), Squeeze (apretar la maneta), Sweep (barrer de lado a lado)",
+      "Pisar, Apagar, Salir, Socorrer",
       "Parar, Avisar, Silenciar, Sofocar"
     ],
-    "respuesta_correcta": 1
+    "respuesta_correcta": 0
   },
   {
     "id": 67,
     "bloque": "Factores Ambientales",
     "pregunta": "La velocidad del aire en los locales de trabajo cerrados no debe exceder de ciertos límites para evitar corrientes molestas; por ejemplo, en locales con trabajos sedentarios no debe superar:",
     "opciones": [
-      "0,2 m/s",
       "5 m/s",
+      "0,2 m/s",
       "20 m/s"
     ],
-    "respuesta_correcta": 0
+    "respuesta_correcta": 1
   },
   {
     "id": 68,
     "bloque": "Agentes Biológicos",
     "pregunta": "El virus de la inmunodeficiencia humana (VIH) o el de la hepatitis B y C son ejemplos típicos de riesgo biológico de transmisión en el ámbito sanitario que se previene mediante:",
     "opciones": [
-      "Precauciones estándar, vacunación (cuando existe) y uso de guantes/dispositivos de seguridad.",
       "El uso exclusivo de gafas de sol.",
+      "Precauciones estándar, vacunación (cuando existe) y uso de guantes/dispositivos de seguridad.",
       "Una adecuada iluminación en los pasillos."
     ],
-    "respuesta_correcta": 0
+    "respuesta_correcta": 1
   },
   {
     "id": 69,
@@ -763,33 +763,33 @@
     "bloque": "Manipulación de Cargas",
     "pregunta": "Si un objeto que se va a manipular pesa más de lo aconsejable o resulta voluminoso e incómodo, el procedimiento preventivo correcto establece:",
     "opciones": [
+      "Arrastrarlo con los dientes.",
       "Intentar alzarlo de un tirón rápido para terminar antes.",
-      "Utilizar medios mecánicos auxiliares (grúas, carretillas, polipastos) o solicitar ayuda a otro compañero.",
-      "Arrastrarlo con los dientes."
+      "Utilizar medios mecánicos auxiliares (grúas, carretillas, polipastos) o solicitar ayuda a otro compañero."
     ],
-    "respuesta_correcta": 1
+    "respuesta_correcta": 2
   },
   {
     "id": 71,
     "bloque": "Salud y Condiciones",
     "pregunta": "¿Por qué se considera la salud un concepto dinámico?",
     "opciones": [
-      "Porque varía constantemente a lo largo de la vida de la persona en función de múltiples factores biológicos y ambientales.",
       "Porque cambia cada cinco minutos de forma imprevisible.",
+      "Porque varía constantemente a lo largo de la vida de la persona en función de múltiples factores biológicos y ambientales.",
       "Porque solo se mide cuando se practica deporte intenso."
     ],
-    "respuesta_correcta": 0
+    "respuesta_correcta": 1
   },
   {
     "id": 72,
     "bloque": "Condiciones de Trabajo",
     "pregunta": "Las condiciones medioambientales del lugar de trabajo comprenden:",
     "opciones": [
-      "Los agentes físicos, químicos y biológicos presentes en el entorno laboral.",
       "La política fiscal del gobierno.",
-      "El tipo de contrato mercantil de los empleados."
+      "El tipo de contrato mercantil de los empleados.",
+      "Los agentes físicos, químicos y biológicos presentes en el entorno laboral."
     ],
-    "respuesta_correcta": 0
+    "respuesta_correcta": 2
   },
   {
     "id": 73,
@@ -818,11 +818,11 @@
     "bloque": "Tipos de Factores de Riesgo",
     "pregunta": "El ritmo de trabajo impuesto por una cadena de montaje automatizada o una presión excesiva de atención al público genera riesgos de carácter:",
     "opciones": [
-      "Psicosocial",
+      "Biológico infeccioso",
       "Físico puro",
-      "Biológico infeccioso"
+      "Psicosocial"
     ],
-    "respuesta_correcta": 0
+    "respuesta_correcta": 2
   },
   {
     "id": 76,
@@ -849,8 +849,7 @@
   {
     "id": 78,
     "bloque": "Enfermedades Profesionales",
-    "peticion": "En relación con las enfermedades profesionales, la preexposición o factores individuales del trabajador determinan:",
-    "pregunta": "La mayor o menor susceptibilidad biológica frente al agente nocivo.",
+    "pregunta": "En relación con las enfermedades profesionales, la preexposición o factores individuales del trabajador determinan:",
     "opciones": [
       "La mayor o menor susceptibilidad biológica frente al agente nocivo.",
       "Que la enfermedad deje de ser de origen laboral por ley.",
@@ -863,11 +862,11 @@
     "bloque": "Consecuencias de los Daños",
     "pregunta": "Para la familia de un trabajador que sufre un accidente laboral mortal o con invalidez total, las consecuencias inmediatas son:",
     "opciones": [
-      "Pérdida de ingresos, impacto emocional severo y reestructuración profunda de la vida familiar.",
       "Un incremento notable del nivel de ahorro y bienestar.",
-      "Ninguna repercusión relevante a largo plazo."
+      "Ninguna repercusión relevante a largo plazo.",
+      "Pérdida de ingresos, impacto emocional severo y reestructuración profunda de la vida familiar."
     ],
-    "respuesta_correcta": 0
+    "respuesta_correcta": 2
   },
   {
     "id": 80,
@@ -885,55 +884,55 @@
     "bloque": "Medidas de Protección",
     "pregunta": "Los tapones auditivos u orejeras de protección contra el ruido intenso son:",
     "opciones": [
-      "Equipos de Protección Individual (EPI) auditivos",
       "Sistemas de protección colectiva",
-      "Controles médicos obligatorios"
+      "Controles médicos obligatorios",
+      "Equipos de Protección Individual (EPI) auditivos"
     ],
-    "respuesta_correcta": 0
+    "respuesta_correcta": 2
   },
   {
     "id": 82,
     "bloque": "Medidas de Protección",
     "pregunta": "El calzado de seguridad con puntera reforzada y suela antideslizante utilizado en cocinas u hospitales es un EPI catalogado para proteger:",
     "opciones": [
-      "Los pies frente a impactos, aplastamientos y resbalones",
       "Las extremidades superiores",
+      "Los pies frente a impactos, aplastamientos y resbalones",
       "Las vías respiratorias altas"
     ],
-    "respuesta_correcta": 0
+    "respuesta_correcta": 1
   },
   {
     "id": 83,
     "bloque": "Disciplinas Preventivas",
     "pregunta": "¿Qué rama de la prevención investiga los aspectos médicos, la aptitud psicofísica y la detección precoz de patologías laborales?",
     "opciones": [
-      "La Medicina del Trabajo",
       "La Higiene analítica",
-      "La Ergonomía geométrica"
+      "La Ergonomía geométrica",
+      "La Medicina del Trabajo"
     ],
-    "respuesta_correcta": 0
+    "respuesta_correcta": 2
   },
   {
     "id": 84,
     "bloque": "Disciplinas Preventivas",
     "pregunta": "Si un operario trabaja expuesto a polvos de sílice o amianto, la disciplina que mide la concentración ambiental de dichas partículas es:",
     "opciones": [
-      "Higiene Industrial",
       "Seguridad mecánica",
-      "Psicosociología"
+      "Psicosociología",
+      "Higiene Industrial"
     ],
-    "respuesta_correcta": 0
+    "respuesta_correcta": 2
   },
   {
     "id": 85,
     "bloque": "Señalización",
     "pregunta": "Una señal de advertencia con forma triangular que muestra un pictograma de una llama sobre fondo amarillo indica:",
     "opciones": [
-      "Materia inflamable",
       "Riesgo de radiación láser",
+      "Materia inflamable",
       "Salida de emergencia accesible"
     ],
-    "respuesta_correcta": 0
+    "respuesta_correcta": 1
   },
   {
     "id": 86,
@@ -952,10 +951,10 @@
     "pregunta": "La iluminación general en pasillos y zonas de tránsito de los centros de trabajo debe ser al menos de:",
     "opciones": [
       "10 lux",
-      "100 lux",
-      "1.000 lux"
+      "1.000 lux",
+      "100 lux"
     ],
-    "respuesta_correcta": 1
+    "respuesta_correcta": 2
   },
   {
     "id": 88,
@@ -973,11 +972,11 @@
     "bloque": "Agentes Químicos",
     "pregunta": "La vía respiratoria es una de las principales vías de entrada de contaminantes químicos en forma de:",
     "opciones": [
-      "Gases, vapores, aerosoles, humos y polvos en suspensión",
-      "Líquidos densos no volátiles almacenados en bidones cerrados",
-      "Sólidos macroscópicos compactos"
+      "Líquidos densos non volátiles almacenados en bidones cerrados",
+      "Sólidos macroscópicos compactos",
+      "Gases, vapores, aerosoles, humos y polvos en suspensión"
     ],
-    "respuesta_correcta": 0
+    "respuesta_correcta": 2
   },
   {
     "id": 90,
@@ -995,44 +994,44 @@
     "bloque": "Salud y Condiciones",
     "pregunta": "El equilibrio entre la vida laboral y personal influye positivamente en:",
     "opciones": [
-      "La salud mental y el bienestar general del trabajador.",
       "La obligatoriedad de realizar horas extra nocturnas.",
+      "La salud mental y el bienestar general del trabajador.",
       "La reducción de la plantilla de empleados."
     ],
-    "respuesta_correcta": 0
+    "respuesta_correcta": 1
   },
   {
     "id": 92,
     "bloque": "Condiciones de Trabajo",
     "pregunta": "Las condiciones de trabajo deficientes que no causan un accidente inmediato pero desgastan la salud de forma paulatina generan:",
     "opciones": [
-      "Patologías inespecíficas, fatiga y enfermedades profesionales",
       "Un ascenso laboral automático",
+      "Patologías inespecíficas, fatiga y enfermedades profesionales",
       "Mejoras de rendimiento físico"
     ],
-    "respuesta_correcta": 0
+    "respuesta_correcta": 1
   },
   {
     "id": 93,
     "bloque": "Riesgos Laborales",
     "pregunta": "Una estantería de almacén sobrecargada que amenaza con derrumbarse representa:",
     "opciones": [
-      "Un riesgo de aplome o caída de objetos por almacenamiento inadecuado",
       "Una medida de protección ergonómica",
-      "Un factor ambiental térmico"
+      "Un factor ambiental térmico",
+      "Un riesgo de aplome o caída de objetos por almacenamiento inadecuado"
     ],
-    "respuesta_correcta": 0
+    "respuesta_correcta": 2
   },
   {
     "id": 94,
     "bloque": "Riesgos Laborales",
     "pregunta": "El análisis de riesgos laborales busca fundamentalmente:",
     "opciones": [
-      "Estimar la magnitud del riesgo y verificar si es tolerable para adoptar las medidas preventivas precisas.",
       "Justificar el despido de los trabajadores con más antigüedad.",
+      "Estimar la magnitud del riesgo y verificar si es tolerable para adoptar las medidas preventivas precisas.",
       "Evitar la realización de auditorías externas."
     ],
-    "respuesta_correcta": 0
+    "respuesta_correcta": 1
   },
   {
     "id": 95,
@@ -1050,44 +1049,44 @@
     "bloque": "Tipos de Factores de Riesgo",
     "pregunta": "El contacto dérmico o inhalación de sustancias sensibilizantes o irritantes se vincula al factor de riesgo:",
     "opciones": [
-      "Químico",
       "Ergonómico",
-      "Psicosocial"
+      "Psicosocial",
+      "Químico"
     ],
-    "respuesta_correcta": 0
+    "respuesta_correcta": 2
   },
   {
     "id": 97,
     "bloque": "Daños Profesionales",
     "pregunta": "Un trabajador que sufre una quemadura grave por salpicadura de un producto químico corrosivo durante su jornada padece:",
     "opciones": [
-      "Un accidente de trabajo con lesión traumática y química",
       "Una enfermedad profesional de origen infeccioso",
+      "Un accidente de trabajo con lesión traumática y química",
       "Una patología psicosocial leve"
     ],
-    "respuesta_correcta": 0
+    "respuesta_correcta": 1
   },
   {
     "id": 98,
     "bloque": "Enfermedades Profesionales",
     "pregunta": "La hipoacusia (sordera) provocada por la exposición continuada a niveles elevados de ruido industrial sin protección se encuentra catalogada como:",
     "opciones": [
-      "Enfermedad profesional en el sistema español",
       "Accidente fortuito de fin de semana",
-      "Trastorno psicosocial aislado"
+      "Trastorno psicosocial aislado",
+      "Enfermedad profesional en el sistema español"
     ],
-    "respuesta_correcta": 0
+    "respuesta_correcta": 2
   },
   {
     "id": 99,
     "bloque": "Consecuencias de los Daños",
     "pregunta": "¿Qué consecuencias experimenta la sociedad ante el incremento de la siniestralidad laboral?",
     "opciones": [
+      "Ninguna repercusión económica.",
       "Sobrecarga de los servicios públicos de salud, coste de pensiones por invalidez y pérdida de productividad general.",
-      "Un aumento inmediato de los recursos estatales disponibles.",
-      "Ninguna repercusión económica."
+      "Un aumento inmediato de los recursos estatales disponibles."
     ],
-    "respuesta_correcta": 0
+    "respuesta_correcta": 1
   },
   {
     "id": 100,
@@ -1105,11 +1104,11 @@
     "bloque": "Medidas de Protección",
     "pregunta": "Un arnés de seguridad con línea de anclaje utilizado en trabajos en altura es un claro ejemplo de:",
     "opciones": [
-      "Equipo de Protección Individual (EPI) anticaídas",
       "Protección colectiva pasiva",
+      "Equipo de Protección Individual (EPI) anticaídas",
       "Medida de higiene industrial"
     ],
-    "respuesta_correcta": 0
+    "respuesta_correcta": 1
   },
   {
     "id": 102,
@@ -1127,77 +1126,77 @@
     "bloque": "Disciplinas Preventivas",
     "pregunta": "La disciplina de 'Seguridad en el Trabajo' abarca el análisis y control de riesgos en ámbitos como:",
     "opciones": [
-      "Máquinas, herramientas, instalaciones eléctricas, incendios y espacios de almacenamiento.",
       "La carga mental de los directivos.",
-      "La concentración de gases tóxicos invisibles."
+      "La concentración de gases tóxicos invisibles.",
+      "Máquinas, herramientas, instalaciones eléctricas, incendios y espacios de almacenamiento."
     ],
-    "respuesta_correcta": 0
+    "respuesta_correcta": 2
   },
   {
     "id": 104,
     "bloque": "Disciplinas Preventivas",
     "pregunta": "Si un trabajador presenta síntomas de lumbalgia repetida por malas posturas al levantar cargas, la intervención combinada debe incluir a la Ergonomía y a:",
     "opciones": [
-      "La Medicina del Trabajo",
       "La seguridad vial urbana",
+      "La Medicina del Trabajo",
       "La psicología comercial"
     ],
-    "respuesta_correcta": 0
+    "respuesta_correcta": 1
   },
   {
     "id": 105,
     "bloque": "Señalización",
     "pregunta": "Una señal de prohibición de fumar en un centro sanitario o almacén se representa mediante:",
     "opciones": [
-      "Una forma redonda con pictograma negro sobre fondo blanco, bordes y banda transversal rojos.",
       "Un triángulo amarillo con borde negro.",
+      "Una forma redonda con pictograma negro sobre fondo blanco, bordes y banda transversal rojos.",
       "Un rectángulo verde informativo."
     ],
-    "respuesta_correcta": 0
+    "respuesta_correcta": 1
   },
   {
     "id": 106,
     "bloque": "Riesgo de Incendio",
     "pregunta": "El método de extinción de incendios basado en la 'sofocación' consiste en:",
     "opciones": [
-      "Eliminar o impedir el contacto del combustible con el oxígeno del aire (por ejemplo, cubriendo con una manta ignífuga).",
       "Enfriar el combustible aplicando grandes cantidades de agua.",
+      "Eliminar o impedir el contacto del combustible con el oxígeno del aire (por ejemplo, cubriendo con una manta ignífuga).",
       "Retirar los materiales combustibles cercanos."
     ],
-    "respuesta_correcta": 0
+    "respuesta_correcta": 1
   },
   {
     "id": 107,
     "bloque": "Factores Ambientales",
     "pregunta": "El nivel de ruido continuo equivalente que exige el uso obligatorio de protectores auditivos según la normativa española se sitúa a partir de:",
     "opciones": [
-      "80 dB(A) (valor inferior que da lugar a una acción) y es obligatorio su uso a partir de 85 dB(A).",
       "120 dB(A) en cualquier circunstancia.",
-      "50 dB(A) en oficinas."
+      "50 dB(A) en oficinas.",
+      "80 dB(A) (valor inferior que da lugar a una acción) y es obligatorio su uso a partir de 85 dB(A)."
     ],
-    "respuesta_correcta": 0
+    "respuesta_correcta": 2
   },
   {
     "id": 108,
     "bloque": "Agentes Biológicos",
     "pregunta": "Los residuos sanitarios biocontaminados o punzantes deben depositarse obligatoriamente en:",
     "opciones": [
-      "Contenedores específicos homologados, rígidos y seguros para evitar pinchazos accidentales.",
       "Papeleras convencionales de oficina con bolsa de plástico.",
+      "Contenedores específicos homologados, rígidos y seguros para evitar pinchazos accidentales.",
       "Contenedores de papel y cartón reciclable."
     ],
-    "respuesta_correcta": 0
+    "respuesta_correcta": 1
   },
   {
     "id": 109,
     "bloque": "Agentes Químicos",
     "pregunta": "El pictograma de un signo de exclamación en una etiqueta de productos químicos advierte sobre:",
     "opciones": [
-      "Toxicidad aguda menor, irritación cutánea o efectos narcóticos.",
       "Explosión inminente del envase a temperatura ambiente.",
-      "Peligro mortal por inhalación directa."
+      "Peligro mortal por inhalación directa.",
+      "Toxicidad aguda menor, irritación cutánea o efectos narcóticos."
     ],
-    "respuesta_correcta": 0
+    "respuesta_correcta": 2
   },
   {
     "id": 110,
@@ -1215,33 +1214,33 @@
     "bloque": "Salud y Condiciones",
     "pregunta": "¿Qué impacto tiene el estrés laboral crónico sobre el sistema inmunológico del trabajador?",
     "opciones": [
-      "Suele debilitarlo, aumentando la vulnerabilidad frente a infecciones y dolencias físicas.",
       "Lo fortalece haciéndolo inmune a cualquier enfermedad.",
+      "Suele debilitarlo, aumentando la vulnerabilidad frente a infecciones y dolencias físicas.",
       "No ejerce ninguna influencia biológica demostrable."
     ],
-    "respuesta_correcta": 0
+    "respuesta_correcta": 1
   },
   {
     "id": 112,
     "bloque": "Condiciones de Trabajo",
     "pregunta": "Las condiciones de trabajo seguras y saludables son un derecho fundamental garantizado por:",
     "opciones": [
-      "La Constitución Española y la normativa de Prevención de Riesgos Laborales.",
       "El criterio exclusivo y voluntario de cada empresario.",
-      "Las normas de etiqueta social no escritas."
+      "Las normas de etiqueta social no escritas.",
+      "La Constitución Española y la normativa de Prevención de Riesgos Laborales."
     ],
-    "respuesta_correcta": 0
+    "respuesta_correcta": 2
   },
   {
     "id": 113,
     "bloque": "Riesgos Laborales",
     "pregunta": "La falta de orden y limpieza en los pasillos de un centro de trabajo incrementa de manera directa el riesgo de:",
     "opciones": [
-      "Caídas de personas a distinto y mismo nivel, y tropiezos.",
       "Intoxicaciones por agentes químicos volátiles.",
+      "Caídas de personas a distinto y mismo nivel, y tropiezos.",
       "Contagio de enfermedades exóticas."
     ],
-    "respuesta_correcta": 0
+    "respuesta_correcta": 1
   },
   {
     "id": 114,
@@ -1257,24 +1256,24 @@
   {
     "id": 115,
     "bloque": "Tipos de Factores de Riesgo",
-    "pregunta": "Un turnicidad excesiva combinada con trabajo nocturno altera los ritmos circadianos, generando riesgos de tipo:",
+    "pregunta": "Una turnicidad excesiva combinada con trabajo nocturno altera los ritmos circadianos, generando riesgos de tipo:",
     "opciones": [
-      "Psicosocial y fisiológico",
       "Mecánico puro",
+      "Psicosocial y fisiológico",
       "Químico corrosivo"
     ],
-    "respuesta_correcta": 0
+    "respuesta_correcta": 1
   },
   {
     "id": 116,
     "bloque": "Tipos de Factores de Riesgo",
     "pregunta": "El manejo de herramientas manuales cortantes o punzantes sin protección adecuada constituye un factor de riesgo:",
     "opciones": [
-      "Mecánico",
       "Biológico",
-      "Psicosocial"
+      "Psicosocial",
+      "Mecánico"
     ],
-    "respuesta_correcta": 0
+    "respuesta_correcta": 2
   },
   {
     "id": 117,
@@ -1292,11 +1291,11 @@
     "bloque": "Enfermedades Profesionales",
     "pregunta": "Las dermatitis de contacto alérgicas o irritantes provocadas por el uso continuado de guantes de látex o detergentes químicos son ejemplos de:",
     "opciones": [
-      "Enfermedades profesionales de la piel",
       "Accidentes traumáticos instantáneos",
-      "Trastornos psicosociales puros"
+      "Trastornos psicosociales puros",
+      "Enfermedades profesionales de la piel"
     ],
-    "respuesta_correcta": 0
+    "respuesta_correcta": 2
   },
   {
     "id": 119,
@@ -1314,55 +1313,55 @@
     "bloque": "Prevención de Riesgos",
     "pregunta": "El plan de prevención de riesgos laborales de una empresa debe ser aprobado e integrado en:",
     "opciones": [
-      "El conjunto de sus actividades y en todos los niveles jerárquicos de la organización.",
       "Únicamente el tablón de anuncios olvidado del sótano.",
+      "El conjunto de sus actividades y en todos los niveles jerárquicos de la organización.",
       "Los estatutos de la asociación de vecinos."
     ],
-    "respuesta_correcta": 0
+    "respuesta_correcta": 1
   },
   {
     "id": 121,
     "bloque": "Medidas de Protección",
     "pregunta": "Los equipos de protección respiratoria con filtros combinados (partículas y gases) protegen al usuario frente a:",
     "opciones": [
-      "La inhalación de contaminantes atmosféricos nocivos presentes en el aire.",
       "Las lesiones oculares por radiación ultravioleta.",
-      "Los golpes en la cabeza por caída de objetos."
+      "Los golpes en la cabeza por caída de objetos.",
+      "La inhalación de contaminantes atmosféricos nocivos presentes en el aire."
     ],
-    "respuesta_correcta": 0
+    "respuesta_correcta": 2
   },
   {
     "id": 122,
     "bloque": "Medidas de Protección",
     "pregunta": "Antes de utilizar un EPI por primera vez o de forma continuada, el trabajador tiene la obligación de:",
     "opciones": [
-      "Revisar su estado de conservación y comprobar que se ajusta correctamente a sus características anatómicas.",
       "Regalárselo a un compañero si le resulta incómodo.",
+      "Revisar su estado de conservación y comprobar que se ajusta correctamente a sus características anatómicas.",
       "Guardarlo en su domicilio particular permanentemente."
     ],
-    "respuesta_correcta": 0
+    "respuesta_correcta": 1
   },
   {
     "id": 123,
     "bloque": "Disciplinas Preventivas",
     "pregunta": "La colaboración entre la Medicina del Trabajo y la Seguridad Industrial es fundamental para garantizar:",
     "opciones": [
-      "Una protección integral de la salud física y mental del trabajador en su puesto.",
       "El cumplimiento estricto de las normas de tráfico en autovías.",
-      "La contabilidad financiera de la empresa."
+      "La contabilidad financiera de la empresa.",
+      "Una protección integral de la salud física y mental del trabajador en su puesto."
     ],
-    "respuesta_correcta": 0
+    "respuesta_correcta": 2
   },
   {
     "id": 124,
     "bloque": "Disciplinas Preventivas",
     "pregunta": "El estudio de la carga postural y de los esfuerzos repetitivos de extremidades superiores se engloba dentro de:",
     "opciones": [
-      "La Ergonomía",
       "La Higiene analítica de campo",
-      "La Medicina biológica"
+      "La Medicina biológica",
+      "La Ergonomía"
     ],
-    "respuesta_correcta": 0
+    "respuesta_correcta": 2
   },
   {
     "id": 125,
@@ -1380,11 +1379,11 @@
     "bloque": "Riesgo de Incendio",
     "pregunta": "Los planes de emergencia y evacuación en centros de trabajo con más de 20 trabajadores o actividades de riesgo deben incluir:",
     "opciones": [
-      "Simulacros periódicos de evacuación para comprobar la eficacia de los procedimientos.",
       "Una fiesta anual de celebración.",
+      "Simulacros periódicos de evacuación para comprobar la eficacia de los procedimientos.",
       "La venta obligatoria de los extintores."
     ],
-    "respuesta_correcta": 0
+    "respuesta_correcta": 1
   },
   {
     "id": 127,
@@ -1402,66 +1401,66 @@
     "bloque": "Agentes Biológicos",
     "pregunta": "La contención física y los procedimientos de desinfección de superficies hospitalarias son barreras esenciales para evitar:",
     "opciones": [
-      "La transmisión cruzada de agentes biológicos infecciosos.",
       "La corrosión de los suelos de terrazo.",
+      "La transmisión cruzada de agentes biológicos infecciosos.",
       "El desgaste de los equipos informáticos."
     ],
-    "respuesta_correcta": 0
+    "respuesta_correcta": 1
   },
   {
     "id": 129,
     "bloque": "Agentes Químicos",
     "pregunta": "El almacenamiento conjunto de productos químicos incompatibles (por ejemplo, ácidos y bases fuertes) puede provocar:",
     "opciones": [
-      "Reacciones violentas peligrosas, desprendimiento de gases tóxicos o incendios.",
       "La neutralización inocua y automática del contenido.",
-      "Una mejora en la limpieza de los recipientes."
+      "Una mejora en la limpieza de los recipientes.",
+      "Reacciones violentas peligrosas, desprendimiento de gases tóxicos o incendios."
     ],
-    "respuesta_correcta": 0
+    "respuesta_correcta": 2
   },
   {
     "id": 130,
     "bloque": "Manipulación de Cargas",
     "pregunta": "Cuando se manipula una carga entre dos o más personas de forma simultánea, es fundamental:",
     "opciones": [
+      "Hacerlo sin previo aviso para sorprender a la carga.",
       "Coordinar los movimientos mediante consignas claras y acordadas previamente para evitar desequilibrios.",
-      "Que cada uno tire hacia un lado distinto para repartir la fuerza.",
-      "Hacerlo sin previo aviso para sorprender a la carga."
+      "Que cada uno tire hacia un lado distinto para repartir la fuerza."
     ],
-    "respuesta_correcta": 0
+    "respuesta_correcta": 1
   },
   {
     "id": 131,
     "bloque": "Salud y Condiciones",
     "pregunta": "¿Qué relación existe entre la calidad de las condiciones de trabajo y la motivación laboral?",
     "opciones": [
+      "Un entorno peligroso estimula la motivación competitiva.",
       "Un entorno seguro y ergonómico favorece la satisfacción, reduce el absentismo e incrementa la motivación.",
-      "Las condiciones de trabajo no influyen en absoluto en el estado anímico.",
-      "Un entorno peligroso estimula la motivación competitiva."
+      "Las condiciones de trabajo no influyen en absoluto en el estado anímico."
     ],
-    "respuesta_correcta": 0
+    "respuesta_correcta": 1
   },
   {
     "id": 132,
     "bloque": "Condiciones de Trabajo",
     "pregunta": "Los aspectos organizativos del trabajo que pueden generar riesgos comprenden:",
     "opciones": [
-      "La estructura de turnos, el ritmo de trabajo, la comunicación y la claridad en las funciones.",
       "La marca de los ordenadores de la oficina.",
-      "El color corporativo de la fachada exterior."
+      "El color corporativo de la fachada exterior.",
+      "La estructura de turnos, el ritmo de trabajo, la comunicación y la claridad en las funciones."
     ],
-    "respuesta_correcta": 0
+    "respuesta_correcta": 2
   },
   {
     "id": 133,
     "bloque": "Riesgos Laborales",
     "pregunta": "Una máquina con partes móviles accesibles sin enclavamiento de seguridad representa un riesgo claro de:",
     "opciones": [
-      "Atrapamiento, corte o cizallamiento",
       "Contagio biológico severo",
+      "Atrapamiento, corte o cizallamiento",
       "Estrés térmico ambiental"
     ],
-    "respuesta_correcta": 0
+    "respuesta_correcta": 1
   },
   {
     "id": 134,
@@ -1490,33 +1489,33 @@
     "bloque": "Tipos de Factores de Riesgo",
     "pregunta": "El uso de disolventes orgánicos en espacios cerrados sin sistemas de extracción localizada expone al personal a riesgos:",
     "opciones": [
-      "Químicos",
       "Puramente mecánicos",
+      "Químicos",
       "Ergonómicos estáticos"
     ],
-    "respuesta_correcta": 0
+    "respuesta_correcta": 1
   },
   {
     "id": 137,
     "bloque": "Daños Profesionales",
     "pregunta": "¿Qué tipo de daño profesional se asocia de forma directa con la manipulación manual continuada de pesos elevados?",
     "opciones": [
-      "Trastornos músculo-esqueléticos de la columna vertebral y extremidades (lumbalgias, hernias)",
       "Enfermedades infecciosas agudas de la sangre",
+      "Trastornos músculo-esqueléticos de la columna vertebral y extremidades (lumbalgias, hernias)",
       "Intoxicaciones por metales pesados"
     ],
-    "respuesta_correcta": 0
+    "respuesta_correcta": 1
   },
   {
     "id": 138,
     "bloque": "Enfermedades Profesionales",
     "pregunta": "La asbestosis o el mesotelioma pleural son enfermedades profesionales graves causadas por la inhalación prolongada de fibras de:",
     "opciones": [
-      "Amianto (asbesto)",
       "Algodón natural limpio",
-      "Cloruro sódico común"
+      "Cloruro sódico común",
+      "Amianto (asbesto)"
     ],
-    "respuesta_correcta": 0
+    "respuesta_correcta": 2
   },
   {
     "id": 139,
@@ -1534,11 +1533,11 @@
     "bloque": "Prevención de Riesgos",
     "pregunta": "Los Delegados de Prevención son los representantes de los trabajadores con funciones específicas en materia de:",
     "opciones": [
-      "Prevención de riesgos en la empresa",
       "Negociación exclusiva de convenios bursátiles",
+      "Prevención de riesgos en la empresa",
       "Inspección fiscal externa"
     ],
-    "respuesta_correcta": 0
+    "respuesta_correcta": 1
   },
   {
     "id": 141,
@@ -1556,38 +1555,38 @@
     "bloque": "Medidas de Protección",
     "pregunta": "¿Quién debe determinar qué EPIs específicos necesita un trabajador en su puesto tras la evaluación de riesgos?",
     "opciones": [
-      "El servicio de prevención o técnico competente de la empresa en colaboración con la evaluación",
       "El propio trabajador según su criterio estético",
+      "El servicio de prevención o técnico competente de la empresa en colaboración con la evaluación",
       "El proveedor comercial más económico"
     ],
-    "respuesta_correcta": 0
+    "respuesta_correcta": 1
   },
   {
     "id": 143,
     "bloque": "Disciplinas Preventivas",
     "pregunta": "La ergonomía geométrica o dimensional se centra especialmente en:",
     "opciones": [
-      "El diseño de los puestos de trabajo, espacios, alturas de planos de trabajo y alcance de los elementos según las medidas antropométricas humanas.",
       "La composición química de los desinfectantes de suelos.",
+      "El diseño de los puestos de trabajo, espacios, alturas de planos de trabajo y alcance de los elementos según las medidas antropométricas humanas.",
       "La contabilidad de costes de los accidentes."
     ],
-    "respuesta_correcta": 0
+    "respuesta_correcta": 1
   },
   {
     "id": 144,
     "bloque": "Disciplinas Preventivas",
     "pregunta": "La higiene analítica (dentro de la Higiene Industrial) tiene como propósito principal:",
     "opciones": [
-      "Medir y analizar en laboratorio las muestras de contaminantes químicos o físicos recogidas en el ambiente de trabajo.",
       "Comprobar el estado anímico de los empleados mediante entrevistas.",
+      "Medir y analizar en laboratorio las muestras de contaminantes químicos o físicos recogidas en el ambiente de trabajo.",
       "Vigilar la presión arterial de la plantilla."
     ],
-    "respuesta_correcta": 0
+    "respuesta_correcta": 1
   },
   {
     "id": 145,
     "bloque": "Señalización",
-    "pregunta": "Una señal de advertencia con forma triangular que muestra un pictograma de una mano atrapada entre rodillos indica:",
+    "pregunta": "Una señal de advertencia con forma triangular que muestra el pictograma de una mano atrapada entre rodillos indica:",
     "opciones": [
       "Riesgo de aplastamiento o atrapamiento de extremidades",
       "Prohibición de tocar instrumentos musicales",
@@ -1600,22 +1599,22 @@
     "bloque": "Riesgo de Incendio",
     "pregunta": "Ante la presencia de humo denso y gases tóxicos en un incendio en un edificio, la conducta de evacuación recomendada incluye:",
     "opciones": [
-      "Desplazarse agachado o casi arrastrándose cerca del suelo (donde el aire está más limpio y fresco) y proteger las vías respiratorias.",
       "Correr de pie erguido lo más rápido posible sin mirar atrás.",
-      "Refugiarse dentro de los armarios de madera."
+      "Refugiarse dentro de los armarios de madera.",
+      "Desplazarse agachado o casi arrastrándose cerca del suelo (donde el aire está más limpio y fresco) y proteger las vías respiratorias."
     ],
-    "respuesta_correcta": 0
+    "respuesta_correcta": 2
   },
   {
     "id": 147,
     "bloque": "Factores Ambientales",
     "pregunta": "El estrés térmico por calor en trabajos al aire libre o en lavanderías industriales puede provocar patologías graves como:",
     "opciones": [
-      "Golpe de calor, deshidratación y agotamiento por calor",
       "Hipotermia severa y congelación",
+      "Golpe de calor, deshidratación y agotamiento por calor",
       "Trastornos auditivos crónicos"
     ],
-    "respuesta_correcta": 0
+    "respuesta_correcta": 1
   },
   {
     "id": 148,
@@ -1633,11 +1632,11 @@
     "bloque": "Agentes Químicos",
     "pregunta": "El pictograma de un cilindro de gas comprimido en una etiqueta química señala que el recipiente contiene:",
     "opciones": [
-      "Gas a presión que puede explotar si se calienta o liberar frío extremo al romperse",
       "Un líquido inflamable de baja densidad",
-      "Un residuo orgánico inofensivo"
+      "Un residuo orgánico inofensivo",
+      "Gas a presión que puede explotar si se calienta o liberar frío extremo al romperse"
     ],
-    "respuesta_correcta": 0
+    "respuesta_correcta": 2
   },
   {
     "id": 150,
@@ -1666,33 +1665,33 @@
     "bloque": "Condiciones de Trabajo",
     "pregunta": "Las condiciones materiales del puesto de trabajo incluyen elementos como:",
     "opciones": [
-      "Las herramientas, máquinas, iluminación, temperatura y espacio físico disponible.",
       "Las opiniones políticas personales de los empleados.",
+      "Las herramientas, máquinas, iluminación, temperatura y espacio físico disponible.",
       "Los gustos musicales de la dirección."
     ],
-    "respuesta_correcta": 0
+    "respuesta_correcta": 1
   },
   {
     "id": 153,
     "bloque": "Riesgos Laborales",
     "pregunta": "El uso de una escalera de mano defectuosa con peldaños rotos o sin zapatas antideslizantes expone al trabajador a un riesgo grave de:",
     "opciones": [
-      "Caída de altura",
       "Intoxicación química aguda",
+      "Caída de altura",
       "Contagio biológico ambiental"
     ],
-    "respuesta_correcta": 0
+    "respuesta_correcta": 1
   },
   {
     "id": 154,
     "bloque": "Riesgos Laborales",
     "pregunta": "La evaluación de riesgos se considera el punto de partida fundamental de:",
     "opciones": [
-      "Toda la actividad preventiva eficaz dentro de la empresa.",
       "El plan de marketing y ventas trimestral.",
-      "La contabilidad de gastos fiscales."
+      "La contabilidad de gastos fiscales.",
+      "Toda la actividad preventiva eficaz dentro de la empresa."
     ],
-    "respuesta_correcta": 0
+    "respuesta_correcta": 2
   },
   {
     "id": 155,
@@ -1710,22 +1709,22 @@
     "bloque": "Tipos de Factores de Riesgo",
     "pregunta": "El contacto accidental con partes en tensión eléctrica directa en un cuadro eléctrico abierto representa un factor de riesgo:",
     "opciones": [
-      "Eléctrico (derivado de las condiciones de seguridad)",
       "Psicosocial de organización",
-      "Ergonómico estático"
+      "Ergonómico estático",
+      "Eléctrico (derivado de las condiciones de seguridad)"
     ],
-    "respuesta_correcta": 0
+    "respuesta_correcta": 2
   },
   {
     "id": 157,
     "bloque": "Daños Profesionales",
     "pregunta": "Una fatiga visual crónica acompañada de sequedad ocular y visión borrosa en trabajadores frente a pantallas de ordenador es un ejemplo de:",
     "opciones": [
-      "Daño profesional derivado de condiciones ergonómicas y ambientales de las PVD",
       "Accidente laboral traumático grave",
+      "Daño profesional derivado de condiciones ergonómicas y ambientales de las PVD",
       "Enfermedad infecciosa aguda"
     ],
-    "respuesta_correcta": 0
+    "respuesta_correcta": 1
   },
   {
     "id": 158,
@@ -1754,11 +1753,11 @@
     "bloque": "Prevención de Riesgos",
     "pregunta": "Los Comités de Seguridad y Salud son órganos paritarios y colegiados de participación destinados a:",
     "opciones": [
-      "La consulta regular y periódica de las actuaciones de la empresa en materia de prevención de riesgos.",
       "Imponer sanciones disciplinarias directas a los trabajadores.",
-      "Gestionar la contabilidad fiscal y mercantil de la sociedad."
+      "Gestionar la contabilidad fiscal y mercantil de la sociedad.",
+      "La consulta regular y periódica de las actuaciones de la empresa en materia de prevención de riesgos."
     ],
-    "respuesta_correcta": 0
+    "respuesta_correcta": 2
   },
   {
     "id": 161,
@@ -1776,22 +1775,22 @@
     "bloque": "Medidas de Protección",
     "pregunta": "¿Qué debe hacer un trabajador si detecta que un EPI que utiliza presenta un defecto o desperfecto importante?",
     "opciones": [
-      "Comunicarlo de inmediato a su superior o responsable de prevención y dejar de utilizarlo hasta su sustitución o reparación.",
       "Intentar repararlo con cinta adhesiva de forma casera y seguir usándolo.",
+      "Comunicarlo de inmediato a su superior o responsable de prevención y dejar de utilizarlo hasta su sustitución o reparación.",
       "Ocultarlo en su taquilla personal."
     ],
-    "respuesta_correcta": 0
+    "respuesta_correcta": 1
   },
   {
     "id": 163,
     "bloque": "Disciplinas Preventivas",
     "pregunta": "La disciplina preventiva que se encarga de analizar los factores de organización del trabajo para evitar la carga mental excesiva y el estrés es:",
     "opciones": [
-      "La Psicosociología Aplicada",
       "La Higiene analítica de campo",
-      "La Seguridad estructural de edificios"
+      "La Seguridad estructural de edificios",
+      "La Psicosociología Aplicada"
     ],
-    "respuesta_correcta": 0
+    "respuesta_correcta": 2
   },
   {
     "id": 164,
@@ -1809,11 +1808,11 @@
     "bloque": "Señalización",
     "pregunta": "¿Qué indica una señal de seguridad con forma rectangular alargada, color verde y una flecha blanca orientada hacia una puerta?",
     "opciones": [
-      "Dirección de salida de emergencia o vía de evacuación",
       "Prohibición de paso peatonal",
+      "Dirección de salida de emergencia o vía de evacuación",
       "Ubicación de un extintor de incendios portátil"
     ],
-    "respuesta_correcta": 0
+    "respuesta_correcta": 1
   },
   {
     "id": 166,
@@ -1842,44 +1841,44 @@
     "bloque": "Agentes Biológicos",
     "pregunta": "¿Qué medidas higiénicas personales son obligatorias para el personal expuesto a riesgos biológicos tras finalizar su tarea?",
     "opciones": [
-      "El lavado meticuloso de manos con agua y jabón antiséptico, retirada segura de EPIs y uso de instalaciones de descontaminación.",
       "Comer directamente sin lavarse las manos en el puesto de trabajo.",
-      "Guardar los guantes usados en los bolsillos de la ropa de calle."
+      "Guardar los guantes usados en los bolsillos de la ropa de calle.",
+      "El lavado meticuloso de manos con agua y jabón antiséptico, retirada segura de EPIs y uso de instalaciones de descontaminación."
     ],
-    "respuesta_correcta": 0
+    "respuesta_correcta": 2
   },
   {
     "id": 169,
     "bloque": "Agentes Químicos",
-    "pregunta": "El pictograma de una mano y una barra metálica corroídas por un líquido en una etiqueta química significa que el producto es:",
+    "pregunta": "El pictograma que muestra una mano y una barra metálica corroídas por un líquido en una etiqueta química significa que el producto es:",
     "opciones": [
-      "Corrosivo (capaz de destruir tejidos vivos y materiales al entrar en contacto)",
       "Un alimento perecedero de origen natural",
+      "Corrosivo (capaz de destruir tejidos vivos y materiales al entrar en contacto)",
       "Un gas refrigerante inofensivo"
     ],
-    "respuesta_correcta": 0
+    "respuesta_correcta": 1
   },
   {
     "id": 170,
     "bloque": "Manipulación de Cargas",
     "pregunta": "Cuando se utiliza una carretilla manual de carga para el transporte horizontal de bultos pesados, la regla ergonómica aconseja:",
     "opciones": [
-      "Empujar la carga siempre que sea posible en lugar de tirar de ella, para proteger la espalda y mantener la visibilidad.",
       "Tirar de la carretilla de espaldas corriendo por el pasillo.",
+      "Empujar la carga siempre que sea posible en lugar de tirar de ella, para proteger la espalda y mantener la visibilidad.",
       "Sobrecargarla por encima de su límite máximo indicado."
     ],
-    "respuesta_correcta": 0
+    "respuesta_correcta": 1
   },
   {
     "id": 171,
     "bloque": "Salud y Condiciones",
     "pregunta": "¿Qué papel desempeña la participación activa de los trabajadores en la mejora de la salud laboral?",
     "opciones": [
-      "Es fundamental, ya que aportan experiencia directa sobre los puestos y facilitan la detección real de riesgos ocultos.",
       "Es un trámite molesto que entorpece la producción.",
-      "No tiene ninguna utilidad práctica."
+      "No tiene ninguna utilidad práctica.",
+      "Es fundamental, ya que aportan experiencia directa sobre los puestos y facilitan la detección real de riesgos ocultos."
     ],
-    "respuesta_correcta": 0
+    "respuesta_correcta": 2
   },
   {
     "id": 172,
@@ -1897,44 +1896,44 @@
     "bloque": "Riesgos Laborales",
     "pregunta": "Un suelo encharcado de líquido inflamable cerca de una fuente de calor o chispa abierta genera un riesgo concurrente de:",
     "opciones": [
-      "Incendio y explosión, además de riesgo de caídas",
       "Ventilación óptima del local",
+      "Incendio y explosión, además de riesgo de caídas",
       "Ergonomía postural perfecta"
     ],
-    "respuesta_correcta": 0
+    "respuesta_correcta": 1
   },
   {
     "id": 174,
     "bloque": "Riesgos Laborales",
     "pregunta": "El principio de prevención que indica 'combatir los riesgos en su origen' implica que:",
     "opciones": [
-      "Se debe actuar directamente sobre la fuente que genera el peligro para eliminarlo antes de que afecte al trabajador.",
       "Hay que esperar a que el trabajador caiga enfermo para actuar.",
+      "Se debe actuar directamente sobre la fuente que genera el peligro para eliminarlo antes de que afecte al trabajador.",
       "Es suficiente con repartir indemnizaciones económicas a posteriori."
     ],
-    "respuesta_correcta": 0
+    "respuesta_correcta": 1
   },
   {
     "id": 175,
     "bloque": "Tipos de Factores de Riesgo",
     "pregunta": "La exposición a niveles de vibración mano-brazo elevados por el uso continuado de martillos neumáticos o taladros pesados puede originar:",
     "opciones": [
-      "Lesiones vasculares y osteoarticulares (como el síndrome de Raynaud o 'dedo blanco')",
       "Trastornos exclusivamente visuales",
+      "Lesiones vasculares y osteoarticulares (como el síndrome de Raynaud o 'dedo blanco')",
       "Enfermedades infecciosas agudas"
     ],
-    "respuesta_correcta": 0
+    "respuesta_correcta": 1
   },
   {
     "id": 176,
     "bloque": "Tipos de Factores de Riesgo",
     "pregunta": "El almacenamiento inadecuado de productos químicos en estanterías altas sin bordes de contención que puedan precipitarse sobre los trabajadores es un riesgo:",
     "opciones": [
-      "Mecánico y químico combinado",
       "Ergonomico estático puro",
-      "Psicosocial positivo"
+      "Psicosocial positivo",
+      "Mecánico y químico combinado"
     ],
-    "respuesta_correcta": 0
+    "respuesta_correcta": 2
   },
   {
     "id": 177,
@@ -1950,8 +1949,7 @@
   {
     "id": 178,
     "bloque": "Enfermedades Profesionales",
-    "peticion": "En España, la gestión y cobertura económica de las prestaciones por enfermedad profesional y accidente de trabajo recae habitualmente sobre:",
-    "pregunta": "Las Mutuas Colaboradoras con la Seguridad Social o las Entidades Gestoras públicas.",
+    "pregunta": "En España, la gestión y cobertura económica de las prestaciones por enfermedad profesional y accidente de trabajo recae habitualmente sobre:",
     "opciones": [
       "Las Mutuas Colaboradoras con la Seguridad Social o las Entidades Gestoras públicas.",
       "Los sindicatos de clase de forma exclusiva.",
@@ -1964,22 +1962,22 @@
     "bloque": "Consecuencias de los Daños",
     "pregunta": "El impacto emocional y psicológico que sufre un trabajador tras presenciar o sufrir un accidente laboral grave se conoce comúnmente como:",
     "opciones": [
-      "Trastorno por estrés postraumático o secuela psicológica laboral",
       "Una mejora automática de la autoestima",
-      "Un indicador de alta productividad"
+      "Un indicador de alta productividad",
+      "Trastorno por estrés postraumático o secuela psicológica laboral"
     ],
-    "respuesta_correcta": 0
+    "respuesta_correcta": 2
   },
   {
     "id": 180,
     "bloque": "Prevención de Riesgos",
     "pregunta": "¿Cuál es la finalidad de la formación e información en prevención de riesgos que la empresa debe impartir a los trabajadores?",
     "opciones": [
-      "Garantizar que cada empleado conozca los riesgos de su puesto y los métodos de protección y prevención aplicables.",
       "Cumplir un trámite burocrático sin utilidad práctica.",
+      "Garantizar que cada empleado conozca los riesgos de su puesto y los métodos de protección y prevención aplicables.",
       "Sustituir la evaluación de riesgos escrita."
     ],
-    "respuesta_correcta": 0
+    "respuesta_correcta": 1
   },
   {
     "id": 181,
@@ -1997,11 +1995,11 @@
     "bloque": "Medidas de Protección",
     "pregunta": "La revisión periódica y el mantenimiento de los extintores de incendios portátiles en los centros de trabajo deben realizarse de acuerdo con:",
     "opciones": [
-      "El Reglamento de Instalaciones de Protección contra Incendios y las normas de mantenimiento del fabricante.",
+      "Únicamente cuando ocurra un incendio real.",
       "El criterio arbitrario anual de cualquier empleado.",
-      "Únicamente cuando ocurra un incendio real."
+      "El Reglamento de Instalaciones de Protección contra Incendios y las normas de mantenimiento del fabricante."
     ],
-    "respuesta_correcta": 0
+    "respuesta_correcta": 2
   },
   {
     "id": 183,
@@ -2019,22 +2017,22 @@
     "bloque": "Disciplinas Preventivas",
     "pregunta": "La correcta combinación de Seguridad en el Trabajo, Higiene Industrial, Ergonomía y Medicina del Trabajo permite abordar la prevención desde una perspectiva:",
     "opciones": [
-      "Global e integral",
       "Estrictamente económica y contable",
+      "Global e integral",
       "Parcial y dispersa"
     ],
-    "respuesta_correcta": 0
+    "respuesta_correcta": 1
   },
   {
     "id": 185,
     "bloque": "Señalización",
     "pregunta": "Una señal de advertencia de color amarillo con forma triangular que muestra el pictograma de una calavera indica:",
     "opciones": [
-      "Peligro de sustancias tóxicas",
       "Riesgo de caídas a distinto nivel",
-      "Salida de socorro habilitada"
+      "Salida de socorro habilitada",
+      "Peligro de sustancias tóxicas"
     ],
-    "respuesta_correcta": 0
+    "respuesta_correcta": 2
   },
   {
     "id": 186,
@@ -2063,16 +2061,16 @@
     "bloque": "Agentes Biológicos",
     "pregunta": "En caso de sufrir un corte o pinchazo accidental con material biológico potencialmente contaminado en el trabajo, el protocolo de actuación inmediata exige:",
     "opciones": [
-      "Lavar la herida con abundante agua y jabón sin frotar, desinfectar y acudir inmediatamente al servicio médico de prevención para profilaxis.",
       "Ocultar el incidente para evitar amonestaciones.",
-      "Continuar trabajando hasta finalizar el turno sin desinfectar."
+      "Continuar trabajando hasta finalizar el turno sin desinfectar.",
+      "Lavar la herida con abundante agua y jabón sin frotar, desinfectar y acudir inmediatamente al servicio médico de prevención para profilaxis."
     ],
-    "respuesta_correcta": 0
+    "respuesta_correcta": 2
   },
   {
     "id": 189,
     "bloque": "Agentes Químicos",
-    "pregunta": "El pictograma que muestra una llama sobre un círculo en una etiqueta de productos químicos indica que la sustancia es:",
+    "pregunta": "El pictograma que muestra una llama sobre un círculo en una etiqueta química significa que el sustancia es:",
     "opciones": [
       "Comburente (puede provocar o agravar incendios o explosiones al liberar oxígeno)",
       "Gas licuado a baja temperatura",
@@ -2085,11 +2083,11 @@
     "bloque": "Manipulación de Cargas",
     "pregunta": "La evaluación del riesgo por manipulación manual de cargas debe tener en cuenta factores como:",
     "opciones": [
-      "El peso de la carga, la frecuencia, la postura, las características del recorrido y las condiciones individuales del trabajador.",
       "Exclusivamente el color del objeto transportado.",
+      "El peso de la carga, la frecuencia, la postura, las características del recorrido y las condiciones individuales del trabajador.",
       "La hora del día en que se realiza la tarea."
     ],
-    "respuesta_correcta": 0
+    "respuesta_correcta": 1
   },
   {
     "id": 191,
@@ -2107,11 +2105,11 @@
     "bloque": "Condiciones de Trabajo",
     "pregunta": "Las condiciones de seguridad deficientes en el uso de herramientas portátiles eléctricas sin aislamiento correcto pueden provocar:",
     "opciones": [
-      "Contactos eléctricos directos o indirectos y quemaduras",
       "Una mejora de la velocidad de corte",
-      "Trastornos puramente psicosociales"
+      "Trastornos puramente psicosociales",
+      "Contactos eléctricos directos o indirectos y quemaduras"
     ],
-    "respuesta_correcta": 0
+    "respuesta_correcta": 2
   },
   {
     "id": 193,
@@ -2129,22 +2127,22 @@
     "bloque": "Riesgos Laborales",
     "pregunta": "¿Qué finalidad tiene investigar un accidente laboral una vez que este ya se ha producido?",
     "opciones": [
-      "Descubrir las causas raíz que lo provocaron para evitar que vuelva a repetirse en el futuro.",
       "Buscar un culpable a quien sancionar rápidamente.",
+      "Descubrir las causas raíz que lo provocaron para evitar que vuelva a repetirse en el futuro.",
       "Archivar el expediente sin más trámites."
     ],
-    "respuesta_correcta": 0
+    "respuesta_correcta": 1
   },
   {
     "id": 195,
     "bloque": "Tipos de Factores de Riesgo",
     "pregunta": "La exposición a niveles excesivos de iluminación (deslumbramientos) o a una penumbra prolongada se engloba en los factores de riesgo:",
     "opciones": [
-      "Físicos ambientales",
       "Biológicos infecciosos",
+      "Físicos ambientales",
       "Químicos corrosivos"
     ],
-    "respuesta_correcta": 0
+    "respuesta_correcta": 1
   },
   {
     "id": 196,
@@ -2162,23 +2160,22 @@
     "bloque": "Daños Profesionales",
     "pregunta": "¿Qué es un daño profesional de tipo traumático?",
     "opciones": [
-      "Aquel que se produce de forma repentina debido a una energía exterior (golpes, cortes, caídas, atropellos)",
+      "Un estado de estrés laboral crónico",
       "Una patología de evolución lenta y silenciosa",
-      "Un estado de estrés laboral crónico"
+      "Aquel que se produce de forma repentina debido a una energía exterior (golpes, cortes, caídas, atropellos)"
     ],
-    "respuesta_correcta": 0
+    "respuesta_correcta": 2
   },
   {
     "id": 198,
     "bloque": "Enfermedades Profesionales",
-    "peticion": "El reconocimiento oficial de una enfermedad profesional aporta al trabajador afectado derechos específicos en materia de:",
-    "pregunta": "Asistencia sanitaria preferente, prestaciones económicas específicas de seguridad social y recargos por falta de medidas si procede.",
+    "pregunta": "El reconocimiento oficial de una enfermedad profesional aporta al trabajador afectado derechos específicos en materia de:",
     "opciones": [
-      "Asistencia sanitaria preferente, prestaciones económicas específicas de seguridad social y recargos por falta de medidas si procede.",
       "Despido libre sin indemnización.",
+      "Asistencia sanitaria preferente, prestaciones económicas específicas de seguridad social y recargos por falta de medidas si procede.",
       "Exención de cotizar durante el resto de su vida."
     ],
-    "respuesta_correcta": 0
+    "respuesta_correcta": 1
   },
   {
     "id": 199,
